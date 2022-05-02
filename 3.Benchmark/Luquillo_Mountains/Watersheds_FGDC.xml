@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata>
+ <idinfo>
+  <citation>
+   <citeinfo>
+    <origin>Sheila F. Murphy, U.S. Geological Survey</origin>
+    <origin>Robert F. Stallard, U.S. Geological Survey</origin>
+    <origin>Martha A. Scholl, U.S. Geological Survey</origin>
+    <origin>Grizelle González, USDA-Forest Service</origin>
+    <origin>Angel Torres-Sánchez, U.S. Geological Survey</origin>
+    <pubdate>2017</pubdate>
+    <title>Geospatial data for Luquillo Mountains, Puerto Rico: Watershed outlines</title>
+    <geoform>Vector Digital Data Set (Polygon)</geoform>
+    <onlink>https://doi.org/10.5066/F74F1PM2</onlink>
+    <lworkcit>
+     <citeinfo>
+      <origin>Sheila F. Murphy, U.S. Geological Survey</origin>
+      <origin>Robert F. Stallard, U.S. Geological Survey</origin>
+      <origin>Martha A. Scholl, U.S. Geological Survey</origin>
+      <origin>Grizelle González, USDA-Forest Service</origin>
+      <origin>Angel Torres-Sánchez, U.S. Geological Survey</origin>
+      <pubdate>20170707</pubdate>
+      <title>Reassessing rainfall in the Luquillo Mountains, Puerto Rico: Local and global ecohydrological implications</title>
+      <geoform>Publication (Journal)</geoform>
+      <serinfo>
+       <sername>PLOS One</sername>
+       <issue>12(7): e0180987</issue>
+      </serinfo>
+      <pubinfo>
+       <pubplace>San Francisco, California</pubplace>
+       <publish>PLOS One</publish>
+      </pubinfo>
+      <onlink>https://doi.org/10.1371/journal.pone.0180987</onlink>
+     </citeinfo>
+    </lworkcit>
+   </citeinfo>
+  </citation>
+  <descript>
+   <abstract>
+    The data set contains watershed outlines in the Luquillo Mountains, Puerto Rico and surrounding region. They were compiled for the following publication:
+
+    Murphy, S.F., Stallard, R.F., Scholl, M.A., González, G., and Torres-Sánchez, A.J., 2017, Reassessing rainfall in the Luquillo Mountains, Puerto Rico: Local and global ecohydrological implications: PLOS One 12(7): e0180987, p. 1-26 https://doi.org/10.1371/journal.pone.0180987.
+   </abstract>
+   <purpose>This data set was developed to improve spatial estimation of rainfall in the Luquillo Mountains, Puerto Rico.</purpose>
+  </descript>
+  <timeperd>
+   <timeinfo>
+    <sngdate>
+     <caldate>2014</caldate>
+    </sngdate>
+   </timeinfo>
+   <current>publication date</current>
+  </timeperd>
+  <status>
+   <progress>Complete</progress>
+   <update>None planned</update>
+  </status>
+  <spdom>
+   <bounding>
+    <westbc>-65.89752192</westbc>
+    <eastbc>-65.668115517</eastbc>
+    <northbc>18.363528744</northbc>
+    <southbc>18.181817795</southbc>
+   </bounding>
+  </spdom>
+  <keywords>
+   <theme>
+    <themekt>ISO 19115 Topic Category</themekt>
+    <themekey>climatologyMeteorologyAtmosphere</themekey>
+    <themekey>elevation</themekey>
+    <themekey>geoscientificInformation</themekey>
+   </theme>
+   <theme>
+    <themekt>USGS Thesaurus</themekt>
+    <themekey>climate change</themekey>
+    <themekey>water budget</themekey>
+    <themekey>water cycle</themekey>
+    <themekey>water resources</themekey>
+    <themekey>precipitation (atmospheric)</themekey>
+    <themekey>field inventory and monitoring</themekey>
+    <themekey>hydrology</themekey>
+    <themekey>evaporation</themekey>
+   </theme>
+   <theme>
+    <themekt>Coastal and Marine Ecological Classification Standard</themekt>
+    <themekey>Tropical Atlantic</themekey>
+   </theme>
+   <theme>
+    <themekt>None</themekt>
+    <themekey>mountain precipitation</themekey>
+    <themekey>tropical forest</themekey>
+    <themekey>elevation/rainfall gradients</themekey>
+    <themekey>windward/leeward</themekey>
+   </theme>
+   <place>
+    <placekt>Common geographic areas</placekt>
+    <placekey>Luquillo</placekey>
+    <placekey>Puerto Rico</placekey>
+    <placekey>Caribbean Islands</placekey>
+   </place>
+   <place>
+    <placekt>None</placekt>
+    <placekey>Icacos watershed</placekey>
+    <placekey>Mameyes watershed</placekey>
+    <placekey>Cuchilla el Duque</placekey>
+    <placekey>Pico del Este</placekey>
+    <placekey>El Yunque National Forest</placekey>
+    <placekey>Sonadora watershed</placekey>
+   </place>
+  </keywords>
+  <accconst>None. Please see 'Distribution Info' for details.</accconst>
+  <useconst>None. Users are advised to read the data set's metadata thoroughly to understand appropriate use and data limitations.</useconst>
+  <ptcontac>
+   <cntinfo>
+    <cntorgp>
+     <cntorg>U.S. Geological Survey, WATER</cntorg>
+     <cntper>Sheila F Murphy</cntper>
+    </cntorgp>
+    <cntpos>Research Hydrologist</cntpos>
+    <cntaddr>
+     <addrtype>mailing address</addrtype>
+     <address>3215 Marine St</address>
+     <city>Boulder</city>
+     <state>CO</state>
+     <postal>80303</postal>
+     <country>United States</country>
+    </cntaddr>
+    <cntvoice>303-541-3023</cntvoice>
+    <cntfax>303-541-3084</cntfax>
+    <cntemail>sfmurphy@usgs.gov</cntemail>
+   </cntinfo>
+  </ptcontac>
+  <native>Environment as of Metadata Creation: Microsoft [Unknown] Version 6.2 (Build 9200) ; Esri ArcGIS 10.5 (Build 6491) Service Pack N/A (Build N/A)</native>
+ </idinfo>
+ <dataqual>
+  <attracc>
+   <attraccr>From USGS (http://dx.doi.org/10.5066/F7P55KJN) except Bisley (http://criticalzone.org/luquillo/), Guaba (Murphy SF, Stallard RF. Hydrology and climate of four watersheds in eastern Puerto Rico, Chapter C. In: Murphy SF, Stallard RF, editors. Water quality and landscape processes of four watersheds in eastern Puerto Rico. Reston, VA: U. S. Geological Survey; USGS Professional Paper 1789. 2012, p. 48-83) and Blanco subwatersheds Cubuy and Sabana (derived in geographic information system (GIS) from 10-m elevation (http://nationalmap.gov/).</attraccr>
+  </attracc>
+  <logic>No formal logical accuracy tests were conducted.</logic>
+  <complete>Data set is considered complete for the information presented, as described in the abstract. Users are advised to read the rest of the metadata record carefully for additional details.</complete>
+  <posacc>
+   <horizpa>
+    <horizpar>A formal accuracy assessment of the horizontal positional information in the data set has not been conducted.</horizpar>
+   </horizpa>
+   <vertacc>
+    <vertaccr>A formal accuracy assessment of the vertical positional information in the data set has either not been conducted, or is not applicable.</vertaccr>
+   </vertacc>
+  </posacc>
+  <lineage>
+   <procstep>
+    <procdesc>Development of the data set by the agency / individuals identified in the 'Originator' element in the Identification Info section of the record.</procdesc>
+    <procdate>Unknown</procdate>
+   </procstep>
+  </lineage>
+ </dataqual>
+ <spdoinfo>
+  <direct>Vector</direct>
+  <ptvctinf>
+   <sdtsterm>
+    <sdtstype>G-polygon</sdtstype>
+    <ptvctcnt>17</ptvctcnt>
+   </sdtsterm>
+  </ptvctinf>
+ </spdoinfo>
+ <spref>
+  <horizsys>
+   <planar>
+    <gridsys>
+     <gridsysn>Universal Transverse Mercator</gridsysn>
+     <utm>
+      <utmzone>20</utmzone>
+      <transmer>
+       <sfctrmer>0.9996</sfctrmer>
+       <longcm>-63.0</longcm>
+       <latprjo>0.0</latprjo>
+       <feast>500000.0</feast>
+       <fnorth>0.0</fnorth>
+      </transmer>
+     </utm>
+    </gridsys>
+    <planci>
+     <plance>coordinate pair</plance>
+     <coordrep>
+      <absres>0.6096</absres>
+      <ordres>0.6096</ordres>
+     </coordrep>
+     <plandu>Meter</plandu>
+    </planci>
+   </planar>
+   <geodetic>
+    <horizdn>D_Puerto_Rico</horizdn>
+    <ellips>Clarke_1866</ellips>
+    <semiaxis>6378206.4</semiaxis>
+    <denflat>294.9786982</denflat>
+   </geodetic>
+  </horizsys>
+ </spref>
+ <eainfo>
+  <detailed>
+   <enttyp>
+    <enttypl>Attribute Table</enttypl>
+    <enttypd>Table containing attribute information associated with the data set.</enttypd>
+    <enttypds>Producer defined</enttypds>
+   </enttyp>
+   <attr>
+    <attrlabl>WS_NAME</attrlabl>
+    <attrdef>Watershed name</attrdef>
+    <attrdefs>Producer defined</attrdefs>
+    <attrdomv>
+     <udom>Watershed names</udom>
+    </attrdomv>
+   </attr>
+   <attr>
+    <attrlabl>GAGE_ID</attrlabl>
+    <attrdef>USGS streamgaging station number</attrdef>
+    <attrdefs>Producer defined</attrdefs>
+    <attrdomv>
+     <edom>
+      <edomv>{Null Value / Empty Field Entry}</edomv>
+      <edomvd>No USGS gaging station present</edomvd>
+      <edomvds>Producer defined</edomvds>
+     </edom>
+    </attrdomv>
+    <attrdomv>
+     <edom>
+      <edomv>50055750</edomv>
+      <edomvd>Unknown</edomvd>
+      <edomvds>Producer defined</edomvds>
+     </edom>
+    </attrdomv>
+    <attrdomv>
+     <edom>
+      <edomv>50061800</edomv>
+      <edomvd>Unknown</edomvd>
+      <edomvds>Producer defined</edomvds>
+     </edom>
+    </attrdomv>
+    <attrdomv>
+     <edom>
+      <edomv>50063440</edomv>
+      <edomvd>Unknown</edomvd>
+      <edomvds>Producer defined</edomvds>
+     </edom>
+    </attrdomv>
+    <attrdomv>
+     <edom>
+      <edomv>50063800</edomv>
+      <edomvd>Unknown</edomvd>
+      <edomvds>Producer defined</edomvds>
+     </edom>
+    </attrdomv>
+    <attrdomv>
+     <edom>
+      <edomv>50064200</edomv>
+      <edomvd>Unknown</edomvd>
+      <edomvds>Producer defined</edomvds>
+     </edom>
+    </attrdomv>
+    <attrdomv>
+     <edom>
+      <edomv>50065500</edomv>
+      <edomvd>Unknown</edomvd>
+      <edomvds>Producer defined</edomvds>
+     </edom>
+    </attrdomv>
+    <attrdomv>
+     <edom>
+      <edomv>50067000</edomv>
+      <edomvd>Unknown</edomvd>
+      <edomvds>Producer defined</edomvds>
+     </edom>
+    </attrdomv>
+    <attrdomv>
+     <edom>
+      <edomv>50070900</edomv>
+      <edomvd>Unknown</edomvd>
+      <edomvds>Producer defined</edomvds>
+     </edom>
+    </attrdomv>
+    <attrdomv>
+     <edom>
+      <edomv>50071000</edomv>
+      <edomvd>Unknown</edomvd>
+      <edomvds>Producer defined</edomvds>
+     </edom>
+    </attrdomv>
+    <attrdomv>
+     <edom>
+      <edomv>50074950</edomv>
+      <edomvd>Unknown</edomvd>
+      <edomvds>Producer defined</edomvds>
+     </edom>
+    </attrdomv>
+    <attrdomv>
+     <edom>
+      <edomv>50075000</edomv>
+      <edomvd>Unknown</edomvd>
+      <edomvds>Producer defined</edomvds>
+     </edom>
+    </attrdomv>
+    <attrdomv>
+     <edom>
+      <edomv>50076000</edomv>
+      <edomvd>Unknown</edomvd>
+      <edomvds>Producer defined</edomvds>
+     </edom>
+    </attrdomv>
+   </attr>
+   <attr>
+    <attrlabl>Shape_Area</attrlabl>
+    <attrdef>watershed area, in square meters</attrdef>
+    <attrdefs>Producer defined</attrdefs>
+    <attrdomv>
+     <rdom>
+      <rdommin>62491.3209494</rdommin>
+      <rdommax>57459627.7147</rdommax>
+      <attrunit>square meters</attrunit>
+     </rdom>
+    </attrdomv>
+   </attr>
+   <attr>
+    <attrlabl>WatershedL</attrlabl>
+    <attrdef>Watershed level (1=watershed; 2=subwatershed; 3=sub-subwatershed)</attrdef>
+    <attrdefs>Producer defined</attrdefs>
+    <attrdomv>
+     <udom>Unknown</udom>
+    </attrdomv>
+   </attr>
+  </detailed>
+  <overview>
+   <eaover>The entity and attribute information provided here describes the tabular data associated with the data set. Please review the detailed descriptions that are provided (the individual attribute descriptions) for information on the values that appear as fields/table entries of the data set.</eaover>
+   <eadetcit>The entity and attribute information was generated by the individual and/or agency identified as the originator of the data set. Please review the rest of the metadata record for additional details and information.</eadetcit>
+  </overview>
+ </eainfo>
+ <distinfo>
+  <distrib>
+   <cntinfo>
+    <cntorgp>
+     <cntorg>U.S. Geological Survey</cntorg>
+     <cntper>GS ScienceBase</cntper>
+    </cntorgp>
+    <cntaddr>
+     <addrtype>mailing address</addrtype>
+     <address>Denver Federal Center, Building 810, Mail Stop 302</address>
+     <city>Denver</city>
+     <state>CO</state>
+     <postal>80225</postal>
+     <country>United States</country>
+    </cntaddr>
+    <cntvoice>1-888-275-8747</cntvoice>
+    <cntemail>sciencebase@usgs.gov</cntemail>
+   </cntinfo>
+  </distrib>
+  <distliab>Unless otherwise stated, all data, metadata and related materials are considered to satisfy the quality standards relative to the purpose for which the data were collected. Although these data and associated metadata have been reviewed for accuracy and completeness and approved for release by the U.S. Geological Survey (USGS), no warranty expressed or implied is made regarding the display or utility of the data for other purposes, nor on all computer systems, nor shall the act of distribution constitute any such warranty.</distliab>
+  <stdorder>
+   <digform>
+    <digtinfo>
+     <formname>Vector Digital Data Set (Polygon)</formname>
+    </digtinfo>
+    <digtopt>
+     <onlinopt>
+      <computer>
+       <networka>
+        <networkr>https://doi.org/10.5066/F74F1PM2</networkr>
+       </networka>
+      </computer>
+     </onlinopt>
+    </digtopt>
+   </digform>
+   <fees>None. No fees are applicable for obtaining the data set.</fees>
+  </stdorder>
+ </distinfo>
+ <metainfo>
+  <metd>20170726</metd>
+  <metc>
+   <cntinfo>
+    <cntperp>
+     <cntper>Sheila F Murphy</cntper>
+     <cntorg>U.S. Geological Survey, WATER</cntorg>
+    </cntperp>
+    <cntpos>Research Hydrologist</cntpos>
+    <cntaddr>
+     <addrtype>mailing address</addrtype>
+     <address>3215 Marine St</address>
+     <city>Boulder</city>
+     <state>CO</state>
+     <postal>80303</postal>
+     <country>United States</country>
+    </cntaddr>
+    <cntvoice>303-541-3023</cntvoice>
+    <cntfax>303-541-3084</cntfax>
+    <cntemail>sfmurphy@usgs.gov</cntemail>
+   </cntinfo>
+  </metc>
+  <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  <metstdv>FGDC-STD-001-1998</metstdv>
+ </metainfo>
+</metadata>
